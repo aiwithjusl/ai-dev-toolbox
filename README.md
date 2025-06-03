@@ -23,3 +23,18 @@ Try it instantly in [Google Colab](https://colab.research.google.com/)
 
 ## 📦 Structure
 
+devtoolbox/
+├── core/
+├── ai/
+└── utils/
+notebooks/
+└── DevToolBox_Demo.ipynb
+
+## 🧑‍💻 Author
+
+**Justin Lane** – [aiwithjusl](https://github.com/aiwithjusl)  
+Microsoft Certified: [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/justinlane-5880/credentials/78e7d3ff81430582)
+
+## ⚖️ License
+
+AGPL-3.0
