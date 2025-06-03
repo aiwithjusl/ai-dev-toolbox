@@ -23,6 +23,7 @@ Try it instantly in [Google Colab](https://colab.research.google.com/)
 
 ## 📦 Structure
 
+```
 devtoolbox/
 ├── core/
 ├── ai/
@@ -30,6 +31,7 @@ devtoolbox/
 notebooks/
 └── DevToolBox_Demo.ipynb
 ```
+
 ## 🧑‍💻 Author
 
 **Justin Lane** – [aiwithjusl](https://github.com/aiwithjusl)  
