@@ -43,3 +43,7 @@ class AITextToolkit:
     def summarize_entities(self, text):
         """Placeholder for future NER implementation"""
         return {"Note": "NER coming soon – will use spaCy or similar lib"}
+
+def basic_tokenizer(self, text):
+    """Splits text into lowercase tokens using regex"""
+    return re.findall(r'\b\w+\b', text.lower())
