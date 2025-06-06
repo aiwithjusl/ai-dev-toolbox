@@ -27,8 +27,7 @@ class TestDatasetCleaner(unittest.TestCase):
 
 def test_fill_missing_mean(self):
     cleaner = DatasetCleaner(self.df)
-    cleaner.clean_column_names()
-    cleaner.fill_missing(strategy='mean')
+    cleaner.clean_column_names().fill_missing(strategy='mean')
     self.assertFalse(cleaner.df['age'].isnull().any())
 
     def test_remove_duplicates(self):
