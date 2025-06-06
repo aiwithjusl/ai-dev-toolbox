@@ -25,10 +25,11 @@ class TestDatasetCleaner(unittest.TestCase):
         cleaned_df = cleaner.drop_missing(threshold=0.4).df
         self.assertNotIn('income', cleaned_df.columns)
 
-    def test_fill_missing_mean(self):
-        cleaner = DatasetCleaner(self.df)
-        cleaner.fill_missing(strategy='mean')
-        self.assertFalse(cleaner.df['age'].isnull().any())
+def test_fill_missing_mean(self):
+    cleaner = DatasetCleaner(self.df)
+    cleaner.clean_column_names()
+    cleaner.fill_missing(strategy='mean')
+    self.assertFalse(cleaner.df['age'].isnull().any())
 
     def test_remove_duplicates(self):
         cleaner = DatasetCleaner(self.df)
