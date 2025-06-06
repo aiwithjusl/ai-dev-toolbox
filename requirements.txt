@@ -2,3 +2,4 @@ nltk
 textblob
 langdetect
 pandas
+faiss-cpu
