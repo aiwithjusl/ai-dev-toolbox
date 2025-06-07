@@ -1,42 +1,74 @@
 # 🧰 AI DevToolBox
 
-A modular Python toolbox built to showcase:
+**Modular Python toolkit for AI development, debugging, data cleaning, and vector search.**  
+Designed to accelerate ML workflows and showcase production-ready engineering.
 
-- ✅ Efficient Python for AI
-- ✅ Debugging & logging
-- ✅ NLP tools
-- ✅ Modular utilities
-- ✅ Clean code & international clarity
-
-This project demonstrates senior-level readiness, problem solving, and cross-domain potential — all cloud-based and remote-first.
+---
 
 ## 🚀 Features
 
-- 🔍 `debug_log()` for readable dev logging
-- 🧠 `basic_tokenizer()` for AI NLP preprocessing
-- 📂 `io_helpers` for clean file I/O
-- 📒 Colab notebook for easy demos
+| Module | Purpose |
+|--------|---------|
+| **AITextToolkit** | NLP processing: tokenization, lemmatization, language detection |
+| **AIDebugger** | Smart debugging with trace metadata and exception logging |
+| **DatasetCleaner** | Clean missing values, fix columns, remove duplicates |
+| **VectorDBConnector** | Add/search vectors using FAISS + metadata |
+| **TaskRunner** | Register and trigger custom functions dynamically |
 
-## 🧪 Run Demos
+---
 
-Try it instantly in [Google Colab](https://colab.research.google.com/)
+## 📦 Installation
 
-## 📦 Structure
+```bash
+git clone https://github.com/aiwithjusl/ai-dev-toolbox.git
+cd ai-dev-toolbox
+pip install -r requirements.txt
 
-```
-devtoolbox/
-├── core/
-├── ai/
-└── utils/
-notebooks/
-└── DevToolBox_Demo.ipynb
-```
+🧪 Run Tests
 
-## 🧑‍💻 Author
+python3 -m unittest discover -s tests
 
-**Justin Lane** – [aiwithjusl](https://github.com/aiwithjusl)  
-Microsoft Certified: [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/users/justinlane-5880/credentials/78e7d3ff81430582)
+🧠 Notebook Demos
 
-## ⚖️ License
+Run the full interactive walkthrough here:
+📓 notebooks/AI_DevToolBox_Demo.ipynb
 
-AGPL-3.0
+💡 Example Use Case: AI Prototyping
+
+- Clean incoming datasets
+- Debug pipeline issues on the fly
+- Test search accuracy with custom vector embeddings
+- Run NLP pipelines from a single interface
+- Register + trigger workflow functions
+
+🧑‍💻 Built With
+
+- Python 3.10
+- NLTK, TextBlob, langdetect
+- Pandas, NumPy
+- FAISS (vector search)
+
+📁 Project Structure
+
+ai-dev-toolbox/
+├── devtoolbox/
+│   ├── ai/
+│   ├── core/
+│   ├── data/
+│   ├── tasking/
+│   ├── utils/
+│   └── vector_db_connector.py
+├── notebooks/
+├── tests/
+├── LICENSE
+├── README.md
+└── requirements.txt
+
+👤 Author  
+Justin Lane  
+→ GitHub: [aiwithjusl](https://github.com/aiwithjusl)  
+→ LinkedIn: [Justin Lane](https://www.linkedin.com/in/justin-lane-69b960219)
+
+🪄 License
+
+MIT License – free for personal + commercial use
