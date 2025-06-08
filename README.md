@@ -87,10 +87,11 @@ ai-dev-toolbox/
 ├── README.md
 └── requirements.txt
 
-👤 Author
-Justin Lane
-→ GitHub: [aiwithjusl](https://github.com/aiwithjusl)  
-→ LinkedIn: [Justin Lane](https://www.linkedin.com/in/justin-lane-69b960219)
+## 👤 Author
+
+**Justin Lane**  
+[GitHub: @aiwithjusl](https://github.com/aiwithjusl)  
+[LinkedIn: Justin Lane](https://www.linkedin.com/in/justin-lane-69b960219)  
 📬 Email: aiwithjusl.dev@gmail.com
 
 🪄 License
