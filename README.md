@@ -51,6 +51,7 @@ python3 -m unittest discover -s tests
 📓 Notebook Demo
 
 Explore features interactively in Google Colab or Jupyter:
+
 📍 notebooks/AI_DevToolBox_Demo.ipynb
 
 💡 Example Use Case: AI Prototyping
@@ -70,8 +71,6 @@ Explore features interactively in Google Colab or Jupyter:
 | `dataset_cleaner`     | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
 | `vector_db_connector` | FAISS-based vector search wrapper                                                |
 | `task_runner`         | Task scheduler with Python decorators                                            |
-
-📁 Project Structure
 
 ai-dev-toolbox/
 ├── devtoolbox/
