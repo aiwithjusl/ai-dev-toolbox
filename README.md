@@ -62,7 +62,6 @@ Explore features interactively in Google Colab or Jupyter:
 - Register + trigger workflow functions
 
 🧰 Toolkit Modules
-
 | Module                | Description                                                                      |
 | --------------------- | -------------------------------------------------------------------------------- |
 | `ai_text_toolkit`     | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
