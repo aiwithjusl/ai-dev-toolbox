@@ -62,13 +62,14 @@ Explore features interactively in Google Colab or Jupyter:
 - Register + trigger workflow functions
 
 🧰 Toolkit Modules
-| Module                | Description                                                                      |
-| --------------------- | -------------------------------------------------------------------------------- |
-| `ai_text_toolkit`     | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
-| `ai_debugger`         | Captures Python errors and suggests fixes using AST + trace logs                 |
-| `dataset_cleaner`     | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
-| `vector_db_connector` | FAISS-based vector search wrapper                                                |
-| `task_runner`         | Task scheduler with Python decorators                                            |
+
+| Module | Purpose |
+|--------|---------|
+| **ai_text_toolkit** | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
+| **ai_debugger** | Captures Python errors and suggests fixes using AST + trace logs |
+| **dataset_cleaner** | Cleans data: handles nulls, trims whitespace, removes duplicates |
+| **vector_db_connector** | FAISS-based vector search wrapper |
+| **task_runner** | Task scheduler with Python decorators |
 
 📁 Project Structure
 
