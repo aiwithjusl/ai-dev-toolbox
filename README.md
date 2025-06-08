@@ -51,7 +51,6 @@ python3 -m unittest discover -s tests
 📓 Notebook Demo
 
 Explore features interactively in Google Colab or Jupyter:
-
 📍 notebooks/AI_DevToolBox_Demo.ipynb
 
 💡 Example Use Case: AI Prototyping
