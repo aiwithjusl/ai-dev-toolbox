@@ -37,6 +37,14 @@ git clone https://github.com/aiwithjusl/ai-dev-toolbox.git
 cd ai-dev-toolbox
 pip install -r requirements.txt
 
+⚡ Quick Start
+
+from devtoolbox.ai.ai_text_toolkit import AITextToolkit
+
+toolkit = AITextToolkit()
+tokens = toolkit.tokenize("This is a sample sentence.")
+print(tokens)
+
 ⚙️ Requirements
 
 nltk  
