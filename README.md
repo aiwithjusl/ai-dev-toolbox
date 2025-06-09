@@ -58,8 +58,6 @@ python3 -m unittest discover -s tests
 Explore features interactively in Google Colab or Jupyter:
 📍 notebooks/AI_DevToolBox_Demo.ipynb
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aiwithjusl/ai-dev-toolbox/blob/main/notebooks/AI_DevToolBox_Demo.ipynb)
-
 💡 Example Use Case: AI Prototyping
 
 - Clean incoming datasets
