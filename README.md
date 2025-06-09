@@ -70,15 +70,16 @@ Explore features interactively in Google Colab or Jupyter:
 - Run NLP pipelines from a single interface
 - Register + trigger workflow functions
 
+```md
 🧰 Toolkit Modules
 
 | Module                | Description                                                                      |
 | --------------------- | -------------------------------------------------------------------------------- |
-| `ai_text_toolkit`     | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
-| `ai_debugger`         | Captures Python errors and suggests fixes using AST + trace logs                 |
-| `dataset_cleaner`     | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
-| `vector_db_connector` | FAISS-based vector search wrapper                                                |
-| `task_runner`         | Task scheduler with Python decorators                                            |
+| [`ai_text_toolkit`](devtoolbox/ai/ai_text_toolkit.py)     | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
+| [`ai_debugger`](devtoolbox/core/ai_debugger.py)           | Captures Python errors and suggests fixes using AST + trace logs                 |
+| [`dataset_cleaner`](devtoolbox/data/dataset_cleaner.py)   | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
+| [`vector_db_connector`](devtoolbox/vector_db_connector.py) | FAISS-based vector search wrapper                                                |
+| [`task_runner`](devtoolbox/tasking/task_runner.py)        | Task scheduler with Python decorators                                            |
 
 ai-dev-toolbox/
 ├── devtoolbox/
