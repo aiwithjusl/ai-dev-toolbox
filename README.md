@@ -74,11 +74,11 @@ Explore features interactively in Google Colab or Jupyter:
 
 | Module                | Description                                                                      |
 | --------------------- | -------------------------------------------------------------------------------- |
-| [`ai_text_toolkit`](devtoolbox/ai/ai_text_toolkit.py)     | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
-| [`ai_debugger`](devtoolbox/core/ai_debugger.py)           | Captures Python errors and suggests fixes using AST + trace logs                 |
-| [`dataset_cleaner`](devtoolbox/data/dataset_cleaner.py)   | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
+| [`ai_text_toolkit`](devtoolbox/ai/ai_text_toolkit.py)      | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
+| [`ai_debugger`](devtoolbox/core/ai_debugger.py)            | Captures Python errors and suggests fixes using AST + trace logs                 |
+| [`dataset_cleaner`](devtoolbox/data/dataset_cleaner.py)    | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
 | [`vector_db_connector`](devtoolbox/vector_db_connector.py) | FAISS-based vector search wrapper                                                |
-| [`task_runner`](devtoolbox/tasking/task_runner.py)        | Task scheduler with Python decorators                                            |
+| [`task_runner`](devtoolbox/tasking/task_runner.py)         | Task scheduler with Python decorators                                            |
 
 ai-dev-toolbox/
 ├── devtoolbox/
