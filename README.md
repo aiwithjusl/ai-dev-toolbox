@@ -70,7 +70,6 @@ Explore features interactively in Google Colab or Jupyter:
 - Run NLP pipelines from a single interface
 - Register + trigger workflow functions
 
-```md
 🧰 Toolkit Modules
 
 | Module                | Description                                                                      |
