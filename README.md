@@ -36,10 +36,22 @@ pip install -r requirements.txt
 ⚡ Quick Start
 
 from devtoolbox.ai.ai_text_toolkit import AITextToolkit
+from devtoolbox.core.ai_debugger import AIDebugger
 
+# NLP Preprocessing
 toolkit = AITextToolkit()
-tokens = toolkit.tokenize("This is a sample sentence.")
-print(tokens)
+text = "Running tests with NLTK and FAISS is awesome!"
+tokens = toolkit.tokenize(text)
+lemmas = toolkit.lemmatize(tokens)
+print("Tokens:", tokens)
+print("Lemmas:", lemmas)
+
+# Debugging a sample error
+debugger = AIDebugger()
+try:
+    eval("x === y")  # Intentional syntax error
+except Exception as e:
+    debugger.debug(e)
 
 ⚙️ Requirements
 
