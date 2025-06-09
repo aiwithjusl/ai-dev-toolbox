@@ -3,10 +3,6 @@
 
 > Modular Python toolkit to accelerate AI workflows — built for automation, scalability, and real-world usability.
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/aiwithjusl/ai-dev-toolbox?style=social)  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)  
-![License](https://img.shields.io/github/license/aiwithjusl/ai-dev-toolbox)
-
 ---
 
 ## 🚀 Project Overview
