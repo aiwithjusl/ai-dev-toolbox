@@ -39,6 +39,7 @@ from devtoolbox.ai.ai_text_toolkit import AITextToolkit
 from devtoolbox.core.ai_debugger import AIDebugger
 
 # NLP Preprocessing
+
 toolkit = AITextToolkit()
 text = "Running tests with NLTK and FAISS is awesome!"
 tokens = toolkit.tokenize(text)
@@ -47,6 +48,7 @@ print("Tokens:", tokens)
 print("Lemmas:", lemmas)
 
 # Debugging a sample error
+
 debugger = AIDebugger()
 try:
     eval("x === y")  # Intentional syntax error
