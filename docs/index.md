@@ -1,4 +1,3 @@
-![Banner](images/ai_dev_toolbox_banner.png)
 ---
 title: AI DevToolBox
 ---
@@ -40,9 +39,11 @@ print(toolkit.tokenize("This is a quick test"))
 📄 Learn More
 
 - GitHub Repository
+
 📂 github.com/aiwithjusl/ai-dev-toolbox — Navigate to this repo to view full source code and modules.
 
 - Documentation & Examples
+
 📂 Located in the docs/ folder
 📄 Main page: docs/index.md
 📓 Demo Notebook: notebooks/AI_DevToolBox_Demo.ipynb
