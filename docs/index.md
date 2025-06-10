@@ -45,7 +45,9 @@ print(toolkit.tokenize("This is a quick test"))
 - Documentation & Examples
 
 📂 Located in the docs/ folder
+
 📄 Main page: docs/index.md
+
 📓 Demo Notebook: notebooks/AI_DevToolBox_Demo.ipynb
 
 👤 About the Author
