@@ -1,8 +1,8 @@
-![Banner](ai_dev_toolbox_banner.png)
-
 ---
 title: AI DevToolBox
 ---
+
+![Banner](ai_dev_toolbox_banner.png)
 
 # 🧠 AI DevToolBox
 
