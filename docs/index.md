@@ -24,10 +24,11 @@ title: AI DevToolBox
 
 Clone and install:
 
-```
+'''
 git clone https://github.com/aiwithjusl/ai-dev-toolbox.git
 cd ai-dev-toolbox
 pip install -r requirements.txt
+'''
 
 ⚡ Quick Start
 
