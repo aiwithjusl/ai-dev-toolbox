@@ -16,11 +16,11 @@ This repo serves as both a usable toolkit and a professional showcase of Python 
 
 ## 🔧 Key Features
 
-- 🧠 **Text Processing** – Tokenization, lemmatization, stopword removal, and language detection  
-- 🐞 **Smart Debugging** – AST-based error capture with trace logging and fix suggestions  
-- 🧹 **Data Cleaning** – Null handling, whitespace trimming, deduplication  
-- 🧭 **Vector Search** – Lightweight FAISS connector for similarity lookups  
-- ⏱️ **Task Automation** – Decorator-based runner for function scheduling  
+- **Text Processing** – Tokenization, lemmatization, stopword removal, and language detection  
+- **Smart Debugging** – AST-based error capture with trace logging and fix suggestions  
+- **Data Cleaning** – Null handling, whitespace trimming, deduplication  
+- **Vector Search** – Lightweight FAISS connector for similarity lookups  
+- **Task Automation** – Decorator-based runner for function scheduling  
 
 ---
 
