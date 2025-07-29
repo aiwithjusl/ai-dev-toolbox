@@ -109,7 +109,6 @@ Register + trigger workflow functions
 
 ---
 
-### ✅ 2. 🧰 Toolkit Modules Table
 
 ## 🧰 Toolkit Modules
 
