@@ -111,9 +111,6 @@ Register + trigger workflow functions
 
 ### ✅ 2. 🧰 Toolkit Modules Table
 
-This must use **standard Markdown table syntax**. Here's the corrected version:
-
-```markdown
 ## 🧰 Toolkit Modules
 
 | Module               | Path                                      | Description                                                                      |
