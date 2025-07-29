@@ -129,13 +129,12 @@ ai-dev-toolbox/
 
 ---
 
-👤 About the Author
+## 👤 About the Author
 
-Justin Lane
-🔗 GitHub: @aiwithjusl
-🔗 LinkedIn: Justin Lane
+**Justin Lane**  
+🔗 GitHub: [@aiwithjusl](https://github.com/aiwithjusl)  
+🔗 LinkedIn: [Justin Lane](https://www.linkedin.com/in/justin-lane-69b960219)  
 📬 Email: aiwithjusl.dev@gmail.com
-
 
 ---
 
