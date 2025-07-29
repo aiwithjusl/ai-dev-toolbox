@@ -110,8 +110,10 @@ task_runner	devtoolbox/tasking/task_runner.py	Task scheduler with Python decorat
 
 ---
 
-🗂️ Project Structure
+```markdown
+## 📂 Project Structure
 
+```text
 ai-dev-toolbox/
 ├── devtoolbox/
 │   ├── ai/
@@ -125,7 +127,6 @@ ai-dev-toolbox/
 ├── LICENSE
 ├── README.md
 └── requirements.txt
-
 
 ---
 
