@@ -126,18 +126,10 @@ Register + trigger workflow functions
 
 ## 📂 Project Structure
 
+```
 |----devtoolbox/
-|--|----ai/
-|--|----core/
-|--|----data/
-|--|----tasking/
-|--|----utils/
-|--|------vector_db_connector.py
-|-------notebooks/
-|-------tests/
-|-------LICENSE
-|-------README.md
-|-------requirements.txt
+ai-dev-toolbox/ ├── devtoolbox/ │   ├── ai/ │   ├── core/ │   ├── data/ │   ├── tasking/ │   ├── utils/ │   └── vector_db_connector.py ├── notebooks/ ├── tests/ ├── LICENSE ├── README.md └── requirements.txt
+```
 
 ---
 
