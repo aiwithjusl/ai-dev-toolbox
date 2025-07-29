@@ -59,9 +59,7 @@ print("Lemmas:", lemmas)
 debugger = AIDebugger()
 
 try:
-
     eval("x === y")  # Intentional syntax error
-
 except Exception as e:
 
     debugger.debug(e)
