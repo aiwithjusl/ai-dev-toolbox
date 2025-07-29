@@ -117,20 +117,18 @@ This must use **standard Markdown table syntax**. Here's the corrected version:
 
 ## 📂 Project Structure
 
-```text
-ai-dev-toolbox/
-├── devtoolbox/
-│  ├── ai/
-│  ├── core/
-│  ├── data/
-│  ├── tasking/
-│  ├── utils/
-│  └── vector_db_connector.py
-├── notebooks/
-├── tests/
-├── LICENSE
-├── README.md
-└── requirements.txt
+|----devtoolbox/
+|--|----ai/
+|--|----core/
+|--|----data/
+|--|----tasking/
+|--|----utils/
+|--|------vector_db_connector.py
+|-------notebooks/
+|-------tests/
+|-------LICENSE
+|-------README.md
+|-------requirements.txt
 
 ---
 
