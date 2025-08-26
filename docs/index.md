@@ -1,4 +1,6 @@
-![Banner](ai_dev_toolbox_banner.png)
+<p align="center">
+  <img src="docs/ai_dev_toolbox_banner.png" alt="AI DevToolBox Banner" width="100%" />
+</p>
 
 *Modular Python toolkit to accelerate AI workflows — automation, NLP, debugging, data cleaning, vector search, and task automation.*
 
@@ -141,5 +143,6 @@ ai-dev-toolbox/ ├── devtoolbox/ │   ├── ai/ │   ├── core/ 
 MIT License – free for personal + commercial use
 
 ---
+
 
 
