@@ -16,10 +16,10 @@ This repo serves as both a usable toolkit and a professional showcase of Python 
 ## 🔧 Key Features
 
 - **Text Processing** – Tokenization, lemmatization, stopword removal, and language detection  
-- **Smart Debugging** – AST-based error capture with trace logging and fix suggestions  
+- **Smart Debugging** – Runtime error capture with trace logging and heuristic fix suggestions  
 - **Data Cleaning** – Null handling, whitespace trimming, deduplication  
 - **Vector Search** – Lightweight FAISS connector for similarity lookups  
-- **Task Automation** – Decorator-based runner for function scheduling  
+- **Task Automation** – Function scheduling utilities for delayed and periodic task execution  
 
 ---
 
@@ -84,10 +84,10 @@ Explore features interactively in Google Colab or Jupyter:
 | Module               | Path                                      | Description                                                                      |
 |----------------------|-------------------------------------------|----------------------------------------------------------------------------------|
 | `ai_text_toolkit`    | devtoolbox/ai/ai_text_toolkit.py          | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
-| `ai_debugger`        | devtoolbox/ai/ai_debugger.py            | Captures Python errors and suggests fixes using AST + trace logs                 |
+| `ai_debugger`        | devtoolbox/ai/ai_debugger.py            | Captures Python runtime errors, records trace logs, and provides heuristic fix suggestions                 |
 | `dataset_cleaner`    | devtoolbox/data/dataset_cleaner.py        | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
 | `vector_db_connector`| devtoolbox/vector_db_connector.py         | FAISS-based vector search wrapper                                                |
-| `task_runner`        | devtoolbox/tasking/task_runner.py         | Task scheduler with Python decorators                                            |
+| `task_runner`        | devtoolbox/tasking/task_runner.py         | Schedules delayed and periodic Python function execution                                            |
 
 ai-dev-toolbox/
 ├── devtoolbox/
