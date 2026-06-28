@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ⚡ Quick Start
 
 from devtoolbox.ai.ai_text_toolkit import AITextToolkit
-from devtoolbox.core.ai_debugger import AIDebugger
+from devtoolbox.ai.ai_debugger import AIDebugger
 
 # NLP Preprocessing
 
