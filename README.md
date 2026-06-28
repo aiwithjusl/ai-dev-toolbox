@@ -84,7 +84,7 @@ Explore features interactively in Google Colab or Jupyter:
 | Module               | Path                                      | Description                                                                      |
 |----------------------|-------------------------------------------|----------------------------------------------------------------------------------|
 | `ai_text_toolkit`    | devtoolbox/ai/ai_text_toolkit.py          | NLP utilities: tokenization, lemmatization, stopword removal, language detection |
-| `ai_debugger`        | devtoolbox/ai/ai_debugger.py              | Captures Python runtime errors, records trace logs, and provides heuristic fix suggestions|
+| `ai_debugger`        | devtoolbox/ai/ai_debugger.py              | Runtime error capture with trace logs and heuristic fix suggestions|
 | `dataset_cleaner`    | devtoolbox/data/dataset_cleaner.py        | Cleans data: handles nulls, trims whitespace, removes duplicates                 |
 | `vector_db_connector`| devtoolbox/vector_db_connector.py         | FAISS-based vector search wrapper                                                |
 | `task_runner`        | devtoolbox/tasking/task_runner.py         | Schedules delayed and periodic Python function execution                         |
