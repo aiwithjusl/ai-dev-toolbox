@@ -2,17 +2,17 @@
   <img src="ai_dev_toolbox_banner.png" alt="AI DevToolBox Banner" width="100%" />
 </p>
 
-*Modular Python toolkit to accelerate AI workflows — automation, NLP, debugging, data cleaning, vector search, and task automation.*
+*Modular Python toolkit to accelerate AI workflows - automation, NLP, debugging, data cleaning, vector search, and task automation.*
 
 ---
 
 ## 🚀 Features
 
-- 🧠 **Text Processing** – Tokenization, lemmatization, stopword removal, and language detection  
-- 🐞 **Smart Debugging** – Runtime error capture with trace logging and heuristic fix suggestions  
-- 🧹 **Data Cleaning** – Null handling, whitespace trimming, deduplication  
-- 🧭 **Vector Search** – Lightweight FAISS connector for similarity lookups  
-- ⏱️ **Task Automation** – Function scheduling utilities for delayed and periodic task execution  
+- 🧠 **Text Processing** - Tokenization, lemmatization, stopword removal, and language detection  
+- 🐞 **Smart Debugging** - Runtime error capture with trace logging and heuristic fix suggestions  
+- 🧹 **Data Cleaning** - Null handling, whitespace trimming, deduplication  
+- 🧭 **Vector Search** - Lightweight FAISS connector for similarity lookups  
+- ⏱️ **Task Automation** - Function scheduling utilities for delayed and periodic task execution  
 
 ---
 
