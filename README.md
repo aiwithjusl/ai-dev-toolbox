@@ -1,6 +1,6 @@
 ![Banner](images/ai_dev_toolbox_banner.png)
 
-> Modular Python toolkit to accelerate AI workflows — built for automation, scalability, and real-world usability.
+> Modular Python toolkit to accelerate AI workflows - built for automation, scalability, and real-world usability.
 
 ---
 
@@ -15,11 +15,11 @@ This repo serves as both a usable toolkit and a professional showcase of Python 
 
 ## 🔧 Key Features
 
-- **Text Processing** – Tokenization, lemmatization, stopword removal, and language detection  
-- **Smart Debugging** – Runtime error capture with trace logging and heuristic fix suggestions  
-- **Data Cleaning** – Null handling, whitespace trimming, deduplication  
-- **Vector Search** – Lightweight FAISS connector for similarity lookups  
-- **Task Automation** – Function scheduling utilities for delayed and periodic task execution  
+- **Text Processing** - Tokenization, lemmatization, stopword removal, and language detection  
+- **Smart Debugging** - Runtime error capture with trace logging and heuristic fix suggestions  
+- **Data Cleaning** - Null handling, whitespace trimming, deduplication  
+- **Vector Search** - Lightweight FAISS connector for similarity lookups  
+- **Task Automation** - Function scheduling utilities for delayed and periodic task execution  
 
 ---
 
