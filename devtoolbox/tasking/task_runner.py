@@ -2,7 +2,7 @@
 
 import time
 import threading
-from typing import Callable, Any, Optional
+from typing import Callable, Optional
 
 
 class TaskRunner:
